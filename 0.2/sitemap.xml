@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mkdocs-material.github.io/example-versioning/0.2/</loc>
-         <lastmod>2024-09-18</lastmod>
+         <lastmod>2025-02-09</lastmod>
     </url>
     <url>
          <loc>https://mkdocs-material.github.io/example-versioning/0.2/bar/</loc>
-         <lastmod>2024-09-18</lastmod>
+         <lastmod>2025-02-09</lastmod>
     </url>
     <url>
          <loc>https://mkdocs-material.github.io/example-versioning/0.2/foo/</loc>
-         <lastmod>2024-09-18</lastmod>
+         <lastmod>2025-02-09</lastmod>
     </url>
 </urlset>
